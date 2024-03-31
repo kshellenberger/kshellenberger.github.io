@@ -1,13 +1,16 @@
 title: Kim Shellenberger # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+ Profile
+  Data scientist and programmer analyst with expertise in statistical programming and predictive modeling, healthcare data and risk analysis, GIS and geospatial data analysis, project and program management, 4+ years in technical roles and 10 years in leadership and entrepreneurial roles.  
   <br><br>
-  Second description 
+  Skills  
+Data Analysis & Visualization | Statistical Programming & Predictive Modeling | Risk Adjustment & Clinical Data | Spatial Analysis Tableau & GIS Dashboards | GIS Web Maps & Field Apps | Program & Project Management | Photogrammetry | LiDAR Processing 
+
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/maximal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
