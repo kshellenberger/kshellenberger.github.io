@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Arrest Analysis using Logistic Regression and Power Bi](/sample_page)
-<img src="images/dashboard sample.png?raw=true"/>
+<img src="images/Dashboard Sample.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
